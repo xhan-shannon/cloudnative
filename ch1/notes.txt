@@ -1,0 +1,5 @@
+What is Cloud Native
+
+1. Cloud Native is an ability to dynamically build and run scale application in Cloud.
+
+2. Cloud Native is an ideology, a collection of technology and enterprise management methods

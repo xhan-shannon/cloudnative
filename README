@@ -1,0 +1,2 @@
+export GOPATH=/home/cuda/Downloads/cloudnative/cloudnative/ch1/
+export GOROOT=/disk2/Golang/installation/go

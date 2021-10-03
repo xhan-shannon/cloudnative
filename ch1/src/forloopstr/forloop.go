@@ -9,13 +9,11 @@ func printChar(ch string, iterNum int) string {
 	}
 	return line
 }
+
 func main() {
-	fmt.Println("in forloop")
-	var diagLevel = 10
-	for i := 1; i < 10; i++ {
-		var line string
-		line = printChar(" ", diagLevel-i)
-		line += printChar("*", i)
-		fmt.Println(line)
+	var fullString string = "hello world!"
+
+	for _, ch := range fullString {
+		fmt.Printf("%s\n", string(ch))
 	}
 }
